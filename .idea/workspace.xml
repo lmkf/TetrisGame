@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf885010-727d-4c99-8c9a-5b20ce22c0ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inedex.html" beforeDir="false" />
-    </list>
+    <list default="true" id="bf885010-727d-4c99-8c9a-5b20ce22c0ab" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640673460838</updated>
-      <workItem from="1640673465663" duration="2065000" />
+      <workItem from="1640673465663" duration="2400000" />
     </task>
     <task id="LOCAL-00001" summary="第一次">
       <created>1640674858112</created>
@@ -49,14 +46,41 @@
       <option name="project" value="LOCAL" />
       <updated>1640674858112</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次">
+      <created>1640676005883</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640676005884</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次">
+      <created>1640676291756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1640676291756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次" />
+    <MESSAGE value="第二次" />
+    <MESSAGE value="第三次" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次" />
   </component>
 </project>
